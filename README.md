@@ -1,12 +1,14 @@
 # cover-page-design
+
 ## AIM:
 To develop a website to display the cover page design of a book
 
 ## Design Steps:
 
 ### Step 1:
-Write your own steps here.
+Clone the GitHub repository and create a Django admin interface.
 ### Step 2:
+Write HTML and CSS code for designing book cover page and execute them.
 
 ## Code:
 ```
@@ -118,7 +120,7 @@ Write your own steps here.
 </html>
 ```
 ## Output:
-![](./cob.png)
+![](./cb.png)
 
 ## Result:
 Thus,a book cover has been successfully created using HTML and CSS.
